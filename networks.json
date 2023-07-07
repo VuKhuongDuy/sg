@@ -3,6 +3,9 @@
     "Weav3Factory": {
       "address": "0x3F39C5175A5A7ed97aBfA3BaD5974B244DcF615C",
       "startBlock": 4002427
+    },
+    "NonfungiblePositionManager": {
+      "address": "0x221D37D7858D84cb30cEd8E79fe8D3CEE3A3C7B2"
     }
   }
 }
